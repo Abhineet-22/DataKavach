@@ -1,7 +1,4 @@
 # Rust Backend File Share with End-to-End Encryption
-
-[![Watch the video](https://img.youtube.com/vi/t5w2dauFmhM/maxresdefault.jpg)](https://youtu.be/t5w2dauFmhM)
-
 This project implements a file sharing backend using Rust, featuring end-to-end encryption to ensure the privacy and security of shared files.
 
 ## Table of Contents
@@ -58,7 +55,7 @@ To get a local copy of this project up and running, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/AarambhDevHub/file-share-rust-backend.git
+   git clone https://github.com/Abhineet-22/DataKavach
    cd file-share-rust-backend
    ```
 2. Create a .env file in the root of the project with the following variables:
@@ -110,9 +107,5 @@ To get a local copy of this project up and running, follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
-## Donations
-
-If you find this project useful and would like to support its continued development, you can make a donation via [Buy Me a Coffee](https://buymeacoffee.com/aarambhdevhub).
 
 Thank you for your support!
